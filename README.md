@@ -1,1 +1,2 @@
-# Regsvr32_Remote_Script_detection
+
+Detect regsvr32 loading a remote script via URL
